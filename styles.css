@@ -1,0 +1,12 @@
+body {
+    justify-content: center;
+    background-color: silver;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#issMap {
+    height: 180px;
+  }
